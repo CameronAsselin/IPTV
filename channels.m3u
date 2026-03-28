@@ -15,20 +15,20 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 --- US Sports
 #EXTINF:-1 tvg-id="New.England.Sports.Network.HDTV.(NESNHD).us" tvg-name="NESN FHD" tvg-logo="https://i.postimg.cc/CxVDbJrS/nesn.png" group-title="US Sports",NESN
 https://a1xs.vip/4000004
-#EXTINF:-1 tvg-id="plex.tv.CBS.Sports.HQ.plex" tvg-name="CBS Sports HQ" tvg-logo="https://seeklogo.com/images/C/cbs-sports-logo-5DF461F39C-seeklogo.com.png" group-title="US Sports",CBS Sports
-https://a1xs.vip/4000007
 #EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/3840px-ESPN_wordmark.svg.png" group-title="US Sports",ESPN
 https://a1xs.vip/40000011
 #EXTINF:-1 tvg-id="ESPN.U.us" tvg-name="ESPNU HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ESPN_U_logo.svg/langfr-1920px-ESPN_U_logo.svg.png" group-title="US Sports",ESPNU
 https://a1xs.vip/40000013
 #EXTINF:-1 tvg-id="ESPN.News.us" tvg-name="ESPN News HD" tvg-logo="https://fastpng.com/images/file/espn-logo-png-2041-x-285-ufdp2cb463wshb7k.png" group-title="US Sports",ESPN News
 https://a1xs.vip/40000014
-#EXTINF:-1 tvg-id="NBA.TV.USA.us" tvg-name="NBA TV" tvg-logo="https://clipground.com/images/nba-tv-logo-png-1.png" group-title="US Sports",NBA TV
-https://a1xs.vip/40000031
+#EXTINF:-1 tvg-id="plex.tv.CBS.Sports.HQ.plex" tvg-name="CBS Sports HQ" tvg-logo="https://seeklogo.com/images/C/cbs-sports-logo-5DF461F39C-seeklogo.com.png" group-title="US Sports",CBS Sports
+https://a1xs.vip/4000007
 #EXTINF:-1 tvg-id="NFL.Network.us" tvg-name="NFL Network" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/1200px-NFL_Network_logo.svg.png" group-title="US Sports",NFL Network
 https://a1xs.vip/40000032
 #EXTINF:-1 tvg-id="NFL.RedZone.us" tvg-name="NFL RedZone" tvg-logo="https://www.pngkit.com/png/full/213-2136445_nfl-redzone-nfl-red-zone-logo.png" group-title="US Sports",NFL RedZone
 https://a1xs.vip/40000033
+#EXTINF:-1 tvg-id="NBA.TV.USA.us" tvg-name="NBA TV" tvg-logo="https://clipground.com/images/nba-tv-logo-png-1.png" group-title="US Sports",NBA TV
+https://a1xs.vip/40000031
 
 --- UK Sports
 #EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-name="Sky Sports Main Event FHD" tvg-logo="https://i.ibb.co/CwMZcpP/sky-main-event.png" group-title="UK Sports",Sky Sports Main Event
@@ -53,6 +53,12 @@ https://a1xs.vip/2000023
 https://a1xs.vip/2000024
 
 --- CA Sports
+#EXTINF:-1 tvg-id="Sportsnet.One.ca" tvg-name="Sportsnet One FHD" tvg-logo="https://vectorseek.com/wp-content/uploads/2023/12/Sportsnet-Logo-Vector.svg-.png" group-title="CA Sports",Sportsnet One
+https://a1xs.vip/6000012
+#EXTINF:-1 tvg-id="Sportsnet.(Ontario).ca" tvg-name="https://dn721908.ca.archive.org/0/items/sportsnet-east/Sportsnet_Ontario.png" group-title="CA Sports",Sportsnet Ontario
+https://a1xs.vip/6000011
+#EXTINF:-1 tvg-id="Sportsnet.World.ca" tvg-name="Sportsnet World FHD" tvg-logo="https://vectorseek.com/wp-content/uploads/2022/03/Sportsnet-World-Logo-Vector.svg-.png" group-title="CA Sports",Sportsnet World
+https://a1xs.vip/6000013
 #EXTINF:-1 tvg-id="TSN1.ca" tvg-name="TSN1" tvg-logo="https://i.ibb.co/sFh5z2s/TSN1.png" group-title="CA Sports",TSN1
 https://a1xs.vip/6000001
 #EXTINF:-1 tvg-id="TSN2.ca" tvg-name="TSN2" tvg-logo="https://i.ibb.co/2YPBw0D/TSN2.png" group-title="CA Sports",TSN2
@@ -63,9 +69,3 @@ https://a1xs.vip/6000003
 https://a1xs.vip/6000004
 #EXTINF:-1 tvg-id="TSN5.ca" tvg-name="TSN5" tvg-logo="https://i.ibb.co/zncTyYH/TSN5.png" group-title="CA Sports",TSN5
 https://a1xs.vip/6000005
-#EXTINF:-1 tvg-id="Sportsnet.(Ontario).ca" tvg-name="https://archive.org/download/sportsnet-east/Sportsnet_Ontario.png" group-title="CA Sports",Sportsnet Ontario
-https://a1xs.vip/6000011
-#EXTINF:-1 tvg-id="Sportsnet.One.ca" tvg-name="Sportsnet One FHD" tvg-logo="https://vectorseek.com/wp-content/uploads/2023/12/Sportsnet-Logo-Vector.svg-.png" group-title="CA Sports",Sportsnet One
-https://a1xs.vip/6000012
-#EXTINF:-1 tvg-id="Sportsnet.World.ca" tvg-name="Sportsnet World FHD" tvg-logo="https://vectorseek.com/wp-content/uploads/2022/03/Sportsnet-World-Logo-Vector.svg-.png" group-title="CA Sports",Sportsnet World
-https://a1xs.vip/6000013
