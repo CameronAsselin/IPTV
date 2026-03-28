@@ -7,8 +7,16 @@ https://viamotionhsi.netplus.ch/live/eds/channel4/browser-HLS8/channel4.m3u8
 https://viamotionhsi.netplus.ch/live/eds/channel5/browser-HLS8/channel5.m3u8
 #EXTINF:-1 tvg-id="CNBC.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/CNBC_2025.svg/960px-CNBC_2025.svg.png" http-referrer="https://www.newslive.com/business/cnbc-live-free.html" group-title="Business",CNBC
 https://stream.livenewsplay.com:9443/hls/cnbc/cnbcsd.m3u8
+#EXTINF:-1 tvg-id="E.us@East" tvg-logo="https://i.imgur.com/TWFDkap.png" group-title="Entertainment",E! East (1080p)
+https://tvpass.org/live/EEast/hd
+#EXTINF:-1 tvg-id="CourtTV.us@SD" tvg-logo="https://i.imgur.com/qkfe3o9.png" group-title="Documentary",Court TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8
 #EXTINF:-1 tvg-id="ComedyCentral.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png" group-title="Entertainment",Comedy Central
 http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.us@East" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Kids",Nickelodeon
+http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
+#EXTINF:-1 tvg-id="BETPlutoTV.us@US" tvg-logo="https://i.imgur.com/Kq9WKZg.png" group-title="Entertainment",BET PlutoTV
+https://jmp2.uk/plu-5ca670f6593a5d78f0e85aed.m3u8
 
 --- Music
 #EXTINF:-1 tvg-id="MTVPlutoTV.us@US" tvg-logo="https://i.imgur.com/WsQRCmZ.png" group-title="Music",MTV
@@ -17,6 +25,7 @@ https://jmp2.uk/plu-5ca672f515a62078d2ec0ad2.m3u8
 https://jmp2.uk/plu-5d14fdb8ca91eedee1633117.m3u8
 #EXTINF:-1 tvg-id="MTVBiggestPop.us@US" tvg-logo="https://i.imgur.com/AOaZmlS.png" group-title="Music",MTV Biggest Pop
 https://jmp2.uk/plu-5d14fd1a252d35decbc4080c.m3u8
+
 
 --- News
 #EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN" tvg-logo="https://logos-world.net/wp-content/uploads/2020/11/CNN-Logo.png" group-title="News",CNN
