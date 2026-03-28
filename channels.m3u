@@ -8,6 +8,10 @@ http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
 #EXTINF:-1 tvg-id="MTVSpankinNew.us@US" tvg-logo="https://i.imgur.com/thbvJd1.png" group-title="Music",MTV Spankin' New (1080p)
 https://jmp2.uk/plu-5d14fdb8ca91eedee1633117.m3u8
 
+--- News
+#EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN" tvg-logo="https://logos-world.net/wp-content/uploads/2020/11/CNN-Logo.png" group-title="News",CNN
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+
 --- US Sports
 #EXTINF:-1 tvg-id="New.England.Sports.Network.HDTV.(NESNHD).us" tvg-name="NESN FHD" tvg-logo="https://i.postimg.cc/CxVDbJrS/nesn.png" group-title="US Sports",NESN
 https://a1xs.vip/4000004
